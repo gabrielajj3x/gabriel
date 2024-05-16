@@ -88,12 +88,12 @@ body {
     color: var(--verde);
     text-transform: uppercase;
 }
-
+/* Verificar aula 02/05
 .contador{
-    display:flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    font-size: 20px;
+    text-align: center;
 }
+
 .contador-digito{
     padding: 0 16px;
     text-align: center;
@@ -112,6 +112,7 @@ body {
     margin: 0;
 
 }
+*/
 
 @media screen and (min-width: 768px) {
     .botoes {
